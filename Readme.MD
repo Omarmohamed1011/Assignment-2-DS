@@ -1,9 +1,9 @@
-# Create a linear regression model for analyzing road accident severity using the relevant dataset related to the scenario. Please specify the dependent variable (the variable you want to predict) and the independent variables (the factors that influence the accident severity). After creating the model, save it for future use. Then, provide an example of using the model to predict accident severity for a hypothetical set of independent variables, and explain how such a model could be beneficial for traffic accident analysis and prevention in underdeveloped countries. Add all relevant screen shots as well from your program. Also share the URL of your GITHUB (Where you have uploaded your work) so that I can simulate the same
+# Create a linear regression model for analyzing road accident severity using the relevant dataset related to the scenario. Please specify the dependent variable (the variable you want to predict) and the independent variables (the factors that influence the accident severity). After creating the model, save it for future use. Then, provide an example of using the model to predict accident severity for a hypothetical set of independent variables, and explain how such a model could benefit traffic accident analysis and prevention in underdeveloped countries. Add all relevant screen shots as well from your program. Also share the URL of your GITHUB (Where you have uploaded your work) so that I can simulate the same
 
 ## Variables
-- Dependent Variable (Target): Accident_severity
+- Dependent Variable : Accident_severity
 ## This is what we want to predict: how severe an accident might be based on other conditions.
-- Independent Variables (Features):
+- Independent Variables:
 - These are factors that likely influence accident severity. From the dataset, relevant variables could include:
 - Age_band_of_driver: Age range of the driver, like '18-30' or '31-50'.
 - Sex_of_driver: Gender of the driver.
